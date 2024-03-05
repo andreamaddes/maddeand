@@ -1,7 +1,3 @@
 "# maddeand" 
 
-Das ist mein neues Repo. Nein das ist  mein neues Repo!!!!
-
-Test Konflikt Maddeand
-
-Test 2
+DIESE ÄNDERUNG WURDE IM TEST-BRANCH-ANDREA GEMACHT.
